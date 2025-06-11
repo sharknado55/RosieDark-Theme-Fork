@@ -367,7 +367,7 @@
         "SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBold.ttf?raw=1"
     },
     "background": {
-        "blur": 4,
+        "blur": 6,
         "url": "https://i.ibb.co/bjW1mt0H/3ffe9cec688fbb2a78130cfb49ead9bc.jpg",
         "OPACITY": 0
     },
