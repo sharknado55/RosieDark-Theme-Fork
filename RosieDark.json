@@ -1,5 +1,5 @@
 {
-    "name": "RosieDark",
+    "name": "MitaRosieDark",
     "description": "same good old Rosie theme but dark :3 (Port of Enmity theme) Thanks Rosie<3",
     "version": "1",
     "authors": [
@@ -368,7 +368,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://i.imgur.com/Kfk07Ux.jpeg",
+        "url": "https://i.ibb.co/SXg3HKQn/8ed3cf7de6e595de77df913a52b1acee.jpg",
         "OPACITY": 0
     },
     "plus": {
