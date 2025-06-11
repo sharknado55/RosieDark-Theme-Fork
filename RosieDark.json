@@ -369,7 +369,7 @@
     "background": {
         "blur": 10,
         "url": "https://i.ibb.co/SXg3HKQn/8ed3cf7de6e595de77df913a52b1acee.jpg",
-        "OPACITY": 0
+        "OPACITY": 0.3
     },
     "plus": {
         "version": "0",
