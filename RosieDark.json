@@ -1,6 +1,6 @@
 {
     "name": "MitaRosieDark",
-    "description": "RosieDark with Mita wallpaperrrr",
+    "description": "RosieDark with Mita wallpaper1",
     "version": "1",
     "authors": [
         {
@@ -367,9 +367,9 @@
         "SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBold.ttf?raw=1"
     },
     "background": {
-        "blur": 10,
+        "blur": 6,
         "url": "https://i.ibb.co/bjW1mt0H/3ffe9cec688fbb2a78130cfb49ead9bc.jpg",
-        "OPACITY": 0
+        "OPACITY": 0.5
     },
     "plus": {
         "version": "0",
