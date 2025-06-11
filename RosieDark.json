@@ -4,7 +4,7 @@
     "version": "1",
     "authors": [
         {
-            "name": "Rairof",
+            "name": "sharknado55",
             "id": "807170846497570848"
         }
     ],
@@ -367,7 +367,7 @@
         "SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBold.ttf?raw=1"
     },
     "background": {
-        "blur": 0.1,
+        "blur": 1,
         "url": "https://i.ibb.co/SXg3HKQn/8ed3cf7de6e595de77df913a52b1acee.jpg",
         "OPACITY": 0
     },
